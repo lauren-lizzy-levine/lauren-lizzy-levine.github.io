@@ -12,4 +12,4 @@ permalink: /publications/
 [[paper]](https://aclanthology.org/2022.sigmorphon-1.12/)
 
 - Gessler, Luke, **Levine, Lauren** and Zeldes, Amir (2022) "Midas Loop: A Prioritized Human-in-the-Loop Annotation System for Large Scale Multilayer Data". In: _Proceedings of the 16th Linguistic Annotatoion Workshop (LAW)_ at LREC 2022. Marseille, France. \
-[[paper]]
+[[paper]](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LAWXVI/pdf/2022.lawxvi-1.13.pdf)

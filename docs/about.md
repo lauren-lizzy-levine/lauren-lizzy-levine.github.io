@@ -17,4 +17,3 @@ I am a second year PhD student in Computational Linguistics at Georgetown Univer
 - Digital Humanties
 - Corpus Construction 
 - Linguistic Annotation
-- TESTING
