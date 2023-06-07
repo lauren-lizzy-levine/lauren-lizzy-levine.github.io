@@ -6,6 +6,14 @@ permalink: /publications/
 
 ## Publications
 
+### 2023
+
+- **Levine, Lauren** (2023) "Difficulties in Handling Mathematical Expressions in Universal Dependencies". In: _Proceedings of the 17th Linguistic Annotatoion Workshop (LAW)_ at ACL 2023. Toronto, Canada. \
+[[paper]] _upcoming_
+
+- Aoyama, Tatsuya, Behzad, Shabnam, Gessler, Luke, **Levine, Lauren**, Lin, Jessica, Liu, Yang Janet, Peng, Siyao, Zhu, Yilun, Zeldes, Amir (2023) "GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation". In: _Proceedings of the 17th Linguistic Annotatoion Workshop (LAW)_ at ACL 2023. Toronto, Canada. \
+[[paper]] _upcoming_
+
 ### 2022
 
 - **Levine, Lauren** (2022) "The Distribution of Deontic Modals in Jane Austen’s Mature Novels". In: _Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature_ at COLING 2022. Gyeongju, Republic of Korea. \
