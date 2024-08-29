@@ -6,12 +6,17 @@ permalink: /publications/
 
 ## Publications
 
+### 2024
+
+- **Levine, Lauren**, Li, Cindy, BremerMcCollum, Lydia, Wagner, Nicholas, and Zeldes, Amir  (2024) "Lacuna Language Learning: Leveraging RNNs for Ranked Text Completion in Digitized Coptic Manuscripts". In: _Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024)_ at ACL 2024. Bangkok, Thailand, 61–70. \
+[[paper]](https://aclanthology.org/2024.ml4al-1.8/)
+
 ### 2023
 
 - **Levine, Lauren** (2023) "Difficulties in Handling Mathematical Expressions in Universal Dependencies". In: _Proceedings of the 17th Linguistic Annotatoion Workshop (LAW)_ at ACL 2023. Toronto, Canada, 19–30. \
 [[paper]](https://aclanthology.org/2023.law-1.3/)
 
-- Aoyama, Tatsuya, Behzad, Shabnam, Gessler, Luke, **Levine, Lauren**, Lin, Jessica, Liu, Yang Janet, Peng, Siyao, Zhu, Yilun, Zeldes, Amir (2023) "GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation". In: _Proceedings of the 17th Linguistic Annotatoion Workshop (LAW)_ at ACL 2023. Toronto, Canada, 166–178. \
+- Aoyama, Tatsuya, Behzad, Shabnam, Gessler, Luke, **Levine, Lauren**, Lin, Jessica, Liu, Yang Janet, Peng, Siyao, Zhu, Yilun, and Zeldes, Amir (2023) "GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation". In: _Proceedings of the 17th Linguistic Annotatoion Workshop (LAW)_ at ACL 2023. Toronto, Canada, 166–178. \
 [[paper]](https://aclanthology.org/2023.law-1.17/)
 
 ### 2022
