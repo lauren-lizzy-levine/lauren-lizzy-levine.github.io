@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2024
 
-- **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023)_ at EMNLP 2024. Miami, USA. \
+- **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)_ at EMNLP 2024. Miami, USA. \
 [[paper]](https://arxiv.org/abs/2410.01170)
 
 - Yang Janet Liu, Tatsuya Aoyama, Wesley Scivetti, Yilun Zhu, Shabnam Behzad, **Lauren Levine**, Jessica Lin, Devika Tiwari, and Amir Zeldes (2024) "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_. Miami, USA.
