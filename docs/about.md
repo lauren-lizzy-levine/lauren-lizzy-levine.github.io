@@ -11,3 +11,11 @@ I am a fourth year Ph.D. Candidate in Computational Linguistics at Georgetown Un
 ## Research Interests
 
 My research focus is on various types of **non-identity coreference**, including bridging (also called associative coreference) and near identity coreference. I am also broadly interested in **corpus linguistics** (including corpus construction and linguistic annotation) and **computational semantics**.
+
+## Academic Profiles
+
+[ACL Anthology](https://aclanthology.org/people/l/lauren-levine/)
+
+[Google Scholar](https://scholar.google.com/citations?user=J_TYRDoAAAAJ&hl=en&oi=sra)
+
+[Semantic Scholar](https://www.semanticscholar.org/author/Lauren-Levine/2175480541)
