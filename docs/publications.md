@@ -11,7 +11,7 @@ permalink: /publications/
 - **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)_ at EMNLP 2024. Miami, USA. \
 [[paper]](https://aclanthology.org/2024.crac-1.5/)
 
-- Yang Janet Liu, Tatsuya Aoyama, Wesley Scivetti, Yilun Zhu, Shabnam Behzad, **Lauren Levine**, Jessica Lin, Devika Tiwari, and Amir Zeldes (2024) "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_. Miami, USA.
+- Yang Janet Liu, Tatsuya Aoyama, Wesley Scivetti, Yilun Zhu, Shabnam Behzad, **Lauren Levine**, Jessica Lin, Devika Tiwari, and Amir Zeldes (2024) "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_. Miami, USA. \
 [[paper]](https://aclanthology.org/2024.emnlp-main.684/)
 
 - **Levine, Lauren**, Li, Cindy, BremerMcCollum, Lydia, Wagner, Nicholas, and Zeldes, Amir  (2024) "Lacuna Language Learning: Leveraging RNNs for Ranked Text Completion in Digitized Coptic Manuscripts". In: _Proceedings of the 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024)_ at ACL 2024. Bangkok, Thailand, 61–70. \
