@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Publications
 
+### 2025
+
+- Scivetti, Wesley, **Levine, Lauren**, Schneider, Nathan (2025) "Multilingual Supervision Improves Semantic Disambiguation of Adpositions". In: _Proceedings of the 31st International Conference on Computational Linguistics_. Abu Dhabi, UAE. \
+[[paper]]
+
 ### 2024
 
 - **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)_ at EMNLP 2024. Miami, USA. \
