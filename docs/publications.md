@@ -9,7 +9,7 @@ permalink: /publications/
 ### 2025
 
 - Scivetti, Wesley, **Levine, Lauren**, Schneider, Nathan (2025) "Multilingual Supervision Improves Semantic Disambiguation of Adpositions". In: _Proceedings of the 31st International Conference on Computational Linguistics_. Abu Dhabi, UAE. \
-[[paper]]
+[[paper]](https://aclanthology.org/2025.coling-main.247/)
 
 ### 2024
 
