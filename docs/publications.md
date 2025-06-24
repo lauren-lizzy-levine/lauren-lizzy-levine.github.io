@@ -15,15 +15,15 @@ permalink: /publications/
 [[paper]](https://arxiv.org/abs/2506.07297)
 
 - **Levine, Lauren** (2025) "A Cross-Genre Analysis of Discourse Relation Signaling in the GUM Corpus". In: _Proceedings of the Society for Computation in Linguistics (SCiL) 2025_. Eugene, OR, USA. \
-[[paper]]
+[[paper]](https://openpublishing.library.umass.edu/scil/article/id/3155/)
 
 - Scivetti, Wesley, **Levine, Lauren**, Schneider, Nathan (2025) "Multilingual Supervision Improves Semantic Disambiguation of Adpositions". In: _Proceedings of the 31st International Conference on Computational Linguistics_. Abu Dhabi, UAE, 3655–3669. \
 [[paper]](https://aclanthology.org/2025.coling-main.247/)
 
 ### 2024
 
-- **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _Proceedings of the Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)_ at EMNLP 2024. Miami, FL, USA, 41–51. \
-[[paper]](https://aclanthology.org/2024.crac-1.5/) **Best Paper Award at CRAC 2024**
+- **Levine, Lauren**, and Zeldes, Amir  (2024) "Unifying the Scope of Bridging Anaphora Types in English: Bridging Annotations in ARRAU and GUM". In: _Proceedings of the Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)_ at EMNLP 2024. Miami, FL, USA, 41–51. _**Best Paper Award at CRAC 2024**_ \
+[[paper]](https://aclanthology.org/2024.crac-1.5/)
 
 - Liu, Yang Janet, Aoyama, Tatsuya, Scivetti, Wesley, Zhu, Yilun, Behzad, Shabnam, **Levine, Lauren**, Lin, Jessica, Tiwari, Devika, and Zeldes, Amir (2024) "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_. Miami, FL, USA, 12287–12303. \
 [[paper]](https://aclanthology.org/2024.emnlp-main.684/)
