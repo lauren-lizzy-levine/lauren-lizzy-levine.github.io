@@ -9,10 +9,10 @@ permalink: /publications/
 ### 2025
 
 - **Levine, Lauren**, Min, Junghyun, and Zeldes, Amir (2025) "Building UD Cairo for Old English in the Classroom". In: _Proceedings of SyntaxFest 2025_. Ljubljana, Slovenia. \
-[[paper]](https://arxiv.org/abs/2504.18718)
+[[paper]](https://aclanthology.org/2025.udw-1.10/)
 
 - **Levine, Lauren**, and Zeldes, Amir (2025) "Subjectivity in the Annotation of Bridging Anaphora". In: _Proceedings of the 19th Linguistic Annotation Workshop (LAW)_ at ACL 2025. Vienna, Austria. \
-[[paper]](https://arxiv.org/abs/2506.07297)
+[[paper]](https://aclanthology.org/2025.law-1.4/)
 
 - **Levine, Lauren** (2025) "A Cross-Genre Analysis of Discourse Relation Signaling in the GUM Corpus". In: _Proceedings of the Society for Computation in Linguistics (SCiL) 2025_. Eugene, OR, USA. \
 [[paper]](https://openpublishing.library.umass.edu/scil/article/id/3155/)
