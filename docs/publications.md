@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Publications
 
+### 2026
+
+- **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". To appear in: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca (Spain). \
+[[paper]](https://www.arxiv.org/abs/2512.07134)
+
 ### 2025
 
 - **Levine, Lauren**, Min, Junghyun, and Zeldes, Amir (2025) "Building UD Cairo for Old English in the Classroom". In: _Proceedings of SyntaxFest 2025_. Ljubljana, Slovenia. \
