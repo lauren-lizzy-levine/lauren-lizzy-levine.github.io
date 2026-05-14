@@ -17,7 +17,7 @@ permalink: /publications/
 - Zeldes, Amir, Katherine Conhaim, and **Levine, Lauren** (2026) "Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. . \
 [[paper]](https://arxiv.org/abs/2603.27358)
 
-- **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". To appear in: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca, Spain. \
+- **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". In: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca, Spain. \
 [[paper]](https://lrec.elra.info/lrec2026-main-543)
 
 ### 2025
