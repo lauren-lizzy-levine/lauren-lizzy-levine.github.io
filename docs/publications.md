@@ -8,14 +8,17 @@ permalink: /publications/
 
 ### 2026
 
-- **Levine, Lauren**, and Zeldes, Amir (2026) "Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. \
-[[paper]]
+- **Levine, Lauren**, and Zeldes, Amir (2026) "What’s in a Bridge?: A Descriptive, Multi-Genre Analysis of the GUMBridge Corpus for Varieties of Bridging Anaphora". To appear in: _Proceedings of the 2nd Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (7th CODI) and Computational Models of Reference, Anaphora and Coreference (9th CRAC) at ACL 2026_. San Diego, CA, USA. \
+[[paper]](https://lauren-lizzy-levine.github.io/images/CODI_CRAC_2026_A_Descriptive_Genre_Analysis_of_Bridging_Anaphora_in_English.pdf)
 
-- Zeldes, Amir, Katherine Conhaim, and **Levine, Lauren**(2026) "Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. . \
+- **Levine, Lauren**, and Zeldes, Amir (2026) "Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. \
+[[paper]](https://lauren-lizzy-levine.github.io/images/LAW_XX_Errors_in_the_Annotation_of_Bridging_Anaphora_camera_ready.pdf)
+
+- Zeldes, Amir, Katherine Conhaim, and **Levine, Lauren** (2026) "Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. . \
 [[paper]](https://arxiv.org/abs/2603.27358)
 
 - **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". To appear in: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca, Spain. \
-[[paper]](https://www.arxiv.org/abs/2512.07134)
+[[paper]](https://lrec.elra.info/lrec2026-main-543)
 
 ### 2025
 
