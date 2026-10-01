@@ -6,26 +6,37 @@ permalink: /publications/
 
 ## Publications
 
+### Dissertation
+
+- **Levine, Lauren** (2026) "Bridging Anaphora in Natural Language Discourse: A Multi-Genre Corpus Analysis and Computational Evaluation" (Doctoral dissertation, Georgetown University).
+[[manuscript]](https://www.proquest.com/openview/2228318b3ce2c77298bd43aa1d88f7a8/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
 ### 2026
 
-- **Levine, Lauren**, and Zeldes, Amir (2026) "What’s in a Bridge?: A Descriptive, Multi-Genre Analysis of the GUMBridge Corpus for Varieties of Bridging Anaphora". To appear in: _Proceedings of the 2nd Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (7th CODI) and Computational Models of Reference, Anaphora and Coreference (9th CRAC) at ACL 2026_. San Diego, CA, USA. \
+- **Levine, Lauren**, and Zeldes, Amir (2026) "LLMBridge: An LLM Pipeline for End-to-end Referential Bridging Resolution in English". To appear in: _Findings of the Association for Computational Linguistics: EMNLP 2026_. Budapest, Hungary. \
+[[paper]](https://arxiv.org/abs/2605.29048)
+ 
+- Bu, Lanni, **Levine, Lauren**, and Zeldes, Amir (2026) "DiscoTrack: A Multilingual LLM Benchmark for Discourse Tracking". To appear in : _Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing_. Budapest, Hungary. \
+[[paper]](https://arxiv.org/abs/2510.17013)
+
+- **Levine, Lauren**, and Zeldes, Amir (2026) "What’s in a Bridge?: A Descriptive, Multi-Genre Analysis of the GUMBridge Corpus for Varieties of Bridging Anaphora". In: _Proceedings of the 2nd Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (7th CODI) and Computational Models of Reference, Anaphora and Coreference (9th CRAC) at ACL 2026_. San Diego, CA, USA, 40–52. \
 [[paper]](https://aclanthology.org/2026.codi-1.7/)
 
-- **Levine, Lauren**, and Zeldes, Amir (2026) "Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. \
+- **Levine, Lauren**, and Zeldes, Amir (2026) "Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora". In: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA, 219–228. \
 [[paper]](https://aclanthology.org/2026.law-main.16/)
 
-- Zeldes, Amir, Katherine Conhaim, and **Levine, Lauren** (2026) "Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation". To appear in: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA. . \
+- Zeldes, Amir, Conhaim, Katherine, and **Levine, Lauren** (2026) "Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation". In: _Proceedings of the 20th Linguistic Annotation Workshop (LAW) at ACL 2026_. San Diego, CA, USA, 178–186. \
 [[paper]](https://aclanthology.org/2026.law-main.14/)
 
-- **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". In: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca, Spain. \
+- **Levine, Lauren**, and Zeldes, Amir (2026) "GUMBridge: a Corpus for Varieties of Bridging Anaphora". In: _Proceedings of the fifteenth Language Resources and Evaluation Conference (LREC) 2026_. Palma, Mallorca, Spain, 6823–6837. \
 [[paper]](https://lrec.elra.info/lrec2026-main-543)
 
 ### 2025
 
-- **Levine, Lauren**, Min, Junghyun, and Zeldes, Amir (2025) "Building UD Cairo for Old English in the Classroom". In: _Proceedings of SyntaxFest 2025_. Ljubljana, Slovenia. \
+- **Levine, Lauren**, Min, Junghyun, and Zeldes, Amir (2025) "Building UD Cairo for Old English in the Classroom". In: _Proceedings of SyntaxFest 2025_. Ljubljana, Slovenia, 97–104. \
 [[paper]](https://aclanthology.org/2025.udw-1.10/)
 
-- **Levine, Lauren**, and Zeldes, Amir (2025) "Subjectivity in the Annotation of Bridging Anaphora". In: _Proceedings of the 19th Linguistic Annotation Workshop (LAW)_ at ACL 2025. Vienna, Austria. \
+- **Levine, Lauren**, and Zeldes, Amir (2025) "Subjectivity in the Annotation of Bridging Anaphora". In: _Proceedings of the 19th Linguistic Annotation Workshop (LAW)_ at ACL 2025. Vienna, Austria, 48–59. \
 [[paper]](https://aclanthology.org/2025.law-1.4/)
 
 - **Levine, Lauren** (2025) "A Cross-Genre Analysis of Discourse Relation Signaling in the GUM Corpus". In: _Proceedings of the Society for Computation in Linguistics (SCiL) 2025_. Eugene, OR, USA. \
