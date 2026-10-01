@@ -11,6 +11,8 @@ permalink: /publications/
 - **Levine, Lauren** (2026) "Bridging Anaphora in Natural Language Discourse: A Multi-Genre Corpus Analysis and Computational Evaluation" (Doctoral dissertation, Georgetown University).
 [[manuscript]](https://www.proquest.com/openview/2228318b3ce2c77298bd43aa1d88f7a8/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
+### Papers
+
 ### 2026
 
 - **Levine, Lauren**, and Zeldes, Amir (2026) "LLMBridge: An LLM Pipeline for End-to-end Referential Bridging Resolution in English". To appear in: _Findings of the Association for Computational Linguistics: EMNLP 2026_. Budapest, Hungary. \
